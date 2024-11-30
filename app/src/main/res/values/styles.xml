@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttonCafe" parent="Theme.CalculadoraIVA">
+        <item name="backgroundTint">@color/cafe</item>
+    </style>
+
+    <style name="buttonRojo" parent="Theme.CalculadoraIVA">
+        <item name="backgroundTint">@color/red</item>
+    </style>
+
+    <style name="buttonBlanco" parent="Theme.CalculadoraIVA">
+        <item name="backgroundTint">@color/white</item>
+    </style>
+    <style name="buttonGreen" parent="Theme.CalculadoraIVA">
+        <item name="backgroundTint">@color/green</item>
+    </style>
+</resources>
